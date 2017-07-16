@@ -21,8 +21,8 @@ Usage
 
 #NASDAQ
 
-https://selective-currency.glitch.me/api?source=NASDAQ
+https://stockmarket-calc.glitch.me/api?source=NASDAQ
 
 #NYSE
 
-https://selective-currency.glitch.me/api?source=NYSE
+https://stockmarket-calc.glitch.me/api?source=NYSE
